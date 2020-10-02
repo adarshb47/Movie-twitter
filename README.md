@@ -3,7 +3,9 @@
 
 ![Home Page](Screenshot2.png)
 
-![Result](Screenshot1.png)
+![Result](Screenshot1.png)  
+
+![Metrics](model1_result.png)  
 
 ### Steps to run the project :  
 
