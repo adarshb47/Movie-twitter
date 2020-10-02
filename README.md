@@ -13,6 +13,6 @@
 4. Run the server file using the command - python application.py  
 5. Check the results on the browser by typing the movie name.  
 
-## Made by Abhijeet and contributions by Adarsh :p
+### Made by Abhijeet and contributions by Adarsh 
 
-# Made for a demonstration of Twitter REST API calls and python library for plotting graphs on data retrieved !!! 
+#### Made for a demonstration of Twitter REST API calls and python library for plotting graphs on data retrieved !!! 
