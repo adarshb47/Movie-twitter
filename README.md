@@ -5,3 +5,14 @@
 
 ![Result](Screenshot1.png)
 
+### Steps to run the project :  
+
+1. Clone this repo  
+2. Install Flask framework in your system.  
+3. Install the dependecies listed in requirement.txt file  
+4. Run the server file using the command - python application.py  
+5. Check the results on the browser by typing the movie name.  
+
+## Made by Abhijeet and contributions by Adarsh :p
+
+# Made for a demonstration of Twitter REST API calls and python library for plotting graphs on data retrieved !!! 
